@@ -1,0 +1,6 @@
+psycopg2>=2.9.3         # PostgreSQL database adapter
+python-decouple>=3.5    # For managing environment variables securely
+rich>=12.0              # For terminal-based UI and styling
+requests>=2.26.0        # For making HTTP requests (if needed)
+bcrypt>=4.0.1           # For password hashing
+colorama>=0.4.6         # For coloring terminal output
